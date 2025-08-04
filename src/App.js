@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <img src="/emotion1.svg" className="App-logo" alt="e1" />
       </header>
     </div>
   );
