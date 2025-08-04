@@ -8,6 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    {/* 시작이 대문자 - 커스텀 태그 */}
   </React.StrictMode>
 );
 
