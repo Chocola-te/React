@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        {/* emotion1 추가 */}
         <img src="/emotion1.svg" className="App-logo" alt="e1" />
       </header>
     </div>
